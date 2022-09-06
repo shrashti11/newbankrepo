@@ -1,0 +1,9 @@
+https://087842655210.signin.aws.amazon.com/console
+
+docker tag newbank/config-server   087842655210.dkr.ecr.ap-south-1.amazonaws.com/newbank:config-server
+
+docker push 087842655210.dkr.ecr.ap-south-1.amazonaws.com/newbank:config-server
+
+id=4, flightNUmber=BF101, origin=NYC, destination=SFO, flightDate=22-JAN-18, fares=Fares [id=5, fare=101, currency=USD], inventory=Inventory [id=6, count=100]]
+
+"origin"="NYC", "destination"="SFO", "flightDate"="22-JAN-18"

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\Test\Downloads\Chapter07\Chapter07\chapter7.book"/>
+			<item value="C:\Users\Test\Downloads\Chapter07\Chapter07\chapter7.website"/>
+			<item value="C:\Users\Test\Downloads\Chapter07\Chapter07\chapter7.search-apigateway"/>
+			<item value="C:\Users\Test\Downloads\Chapter07\Chapter07\chapter7.search"/>
+			<item value="C:\Users\Test\Downloads\Chapter07\Chapter07\chapter7.fares-apigateway"/>
+			<item value="C:\Users\Test\Downloads\Chapter07\Chapter07\chapter7.fares"/>
+			<item value="C:\Users\Test\Downloads\Chapter07\Chapter07\chapter7.eurekaserver"/>
+			<item value="C:\Users\Test\Downloads\Chapter07\Chapter07\chapter7.configserver"/>
+			<item value="C:\Users\Test\Downloads\Chapter07\Chapter07\chapter7.checkin-apigateway"/>
+			<item value="C:\Users\Test\Downloads\Chapter07\Chapter07\chapter7.checkin"/>
+			<item value="C:\Users\Test\Downloads\Chapter07\Chapter07\chapter7.book-apigateway"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>
